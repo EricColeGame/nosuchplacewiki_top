@@ -6,7 +6,46 @@
     "description": "Your complete No Such Place guide: weapons, maps, loot, extraction tips, co-op, Gunsmith builds, Safe House progression and Early Access updates.",
     "legalNotice": "Non-official fan wiki. Made by players, for players. Not affiliated with ChillyRoom, CritTeam, or LoongGate."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "maps": "Maps",
+    "release": "Release",
+    "community": "Community",
+    "media": "Media"
+  },
+  "guide": {
+    "overviewTitle": "No Such Place Guide",
+    "overviewDescription": "Beginner walkthroughs, extraction tips, selling strategies, and step-by-step tutorials for No Such Place."
+  },
+  "mechanics": {
+    "overviewTitle": "No Such Place Mechanics",
+    "overviewDescription": "Phase Shift, Fogman, PvP, multiplayer, and the systems that shape every No Such Place run."
+  },
+  "items": {
+    "overviewTitle": "No Such Place Items & Weapons",
+    "overviewDescription": "Weapons, workbenches, syringes, and the loot you need to survive in No Such Place."
+  },
+  "maps": {
+    "overviewTitle": "No Such Place Maps",
+    "overviewDescription": "Maps, cabins, gas cylinders, and the landmark routes that keep you oriented in No Such Place."
+  },
+  "release": {
+    "overviewTitle": "No Such Place Release & Updates",
+    "overviewDescription": "Release date, Early Access, demo, Steam, PS5, and Xbox news for No Such Place."
+  },
+  "community": {
+    "overviewTitle": "No Such Place Community",
+    "overviewDescription": "Discord, Reddit, and the places where No Such Place players trade tips and runs."
+  },
+  "media": {
+    "overviewTitle": "No Such Place Media",
+    "overviewDescription": "Trailers, gameplay, and reviews covering No Such Place."
+  },
   "home": {
     "meta": {
       "title": "No Such Place Wiki - Weapons, Maps & Extraction Guide",
@@ -441,12 +480,9 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -457,7 +493,11 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "startHere": "Start Here",
+    "beginnerGuide": "Beginner Guide",
+    "beginnerGuideTip": "Learn the core loop, controls, and extraction basics.",
+    "viewAllGuides": "View all guides"
   },
   "footer": {
     "aboutTitle": "No Such Place Wiki",
@@ -470,12 +510,11 @@
     "playGame": "Play on Steam",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "No Such Place Tools",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Weapon Guides",
-    "bossGuides": "Enemy Guides",
-    "buildGuide": "Build Guides",
     "privacyPolicy": "Privacy Policy",
-    "termsOfService": "Terms of Service"
+    "termsOfService": "Terms of Service",
+    "itemGuides": "Weapons & Items",
+    "mapGuides": "Maps & Areas",
+    "mechanicsGuides": "Mechanics"
   }
 }
