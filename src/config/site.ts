@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Weapons, Maps, Loot & Extraction Guides",
   description: "Your complete No Such Place guide: weapons, maps, loot, extraction tips, co-op, Gunsmith builds, Safe House progression and Early Access updates.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://nosuchplacewiki.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://nosuchplacewiki.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@nosuchplacewiki.top",
   gameUrl: "https://store.steampowered.com/app/3299050/No_Such_Place/",
   heroVideoId: "EeZtXZt-ebk", // No Such Place: Official Early Access Release Date Trailer
   social: {
