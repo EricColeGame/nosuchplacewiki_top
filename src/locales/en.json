@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your No Such Place Journey",
+      "title": "Your No Such Place Wiki Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core extraction loop: gear up at the Safe House, deploy into an anomalous zone, complete objectives, loot, fight or avoid threats, and extract before the timer runs out."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Weapons & Gunsmith",
+          "description": "Understand weapon classes, tier rankings, attachments, and loadouts before your next deployment."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Loot & Resources",
+          "description": "Learn which supplies, artifacts, samples, ammo, and medicine are worth extracting for Safe House progression."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in No Such Place."
+          "title": "Enemies & Combat",
+          "description": "Identify hostile creatures, rival agents, and mercenaries, then learn how to fight them or slip past."
         }
       ]
     },
@@ -62,237 +62,347 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Weapons & Gunsmith",
+        "Maps & Extraction",
+        "Co-op Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need for your first extraction, from the Safe House to the exit point.",
+          "href": "/guide/no-such-place-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "How to Extract",
+          "description": "Extraction points, timers, and the tactics that get your loot home safely.",
+          "href": "/guide/no-such-place-how-to-extract"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Gear",
+          "title": "Weapons & Gunsmith",
+          "description": "Weapon tiers, attachments, ammunition, and practical loadout builds.",
+          "href": "/items/no-such-place-weapons"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Maps",
+          "title": "Maps & Extraction",
+          "description": "Regions, landmarks, and route planning for safe exploration runs.",
+          "href": "/maps/no-such-place-map"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Co-op",
+          "title": "Multiplayer Guide",
+          "description": "Team roles, communication, revives, and how group play changes a run.",
+          "href": "/mechanics/no-such-place-multiplayer"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Enemies",
+          "title": "Enemy Reference",
+          "description": "Hostile creatures, rival agents, and mercenaries with survival advice.",
+          "href": "/mechanics/no-such-place-fogman"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Loot",
+          "title": "Loot & Resources",
+          "description": "Which supplies and crafting materials are worth carrying out.",
+          "href": "/items/no-such-place-metal-component"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Guide",
+          "title": "How to Sell Items",
+          "description": "Turn surplus loot into the resources you need for Safe House upgrades.",
+          "href": "/guide/no-such-place-how-to-sell-items"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Release",
+          "title": "Early Access Guide",
+          "description": "What to expect from the launch build, roadmap, and upcoming patches.",
+          "href": "/release/no-such-place-early-access"
         }
       ]
     },
     "aboutGame": {
       "title": "What is No Such Place?",
       "paragraphs": [
-        "No Such Place is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "No Such Place is a top-down extraction shooter from ChillyRoom and CritTeam. You deploy into anomalous dimensions, fight monsters and rival agents, collect valuable loot, and race to an extraction point before the zone closes in. Every successful run feeds your Safe House and the gear you carry into the next operation.",
+        "Combat is deliberate and resource-hungry. Scavenged ballistics hit hard but make noise, improvised melee stays quiet, and anomaly tech trades stability for elemental power. Between runs you sort loot, upgrade facilities, and prepare loadouts. No Such Place launches in Steam Early Access on October 14, 2026 with three regions and solo, online co-op, and LAN co-op support."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "ChillyRoom"
+        },
+        {
+          "label": "Publisher",
+          "value": "LoongGate"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC / Steam"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Extraction Shooter"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Regions",
+          "value": "3"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Game Modes",
+          "value": "3"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Early Access",
+          "value": "Oct 14, 2026"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore No Such Place Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "From your first extraction to late-run Safe House upgrades, these eight modules cover the weapons, maps, loot, enemies, co-op tactics, and patch notes that matter in No Such Place.",
       "modules": [
         {
           "order": 1,
-          "name": "No Such Place Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/no-such-place-codes",
-          "displayType": "code-box",
+          "name": "No Such Place Wiki Beginner Guide",
+          "description": "Explain the core extraction loop, reconnaissance objectives, looting, combat, extraction timing, and Safe House return process for players entering the game or Early Access.",
+          "href": "/guide/no-such-place-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Gear up at the Safe House and pick a loadout that matches your objective before you deploy."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Deploy into an anomalous zone and read the map for landmarks, loot clusters, and extraction points."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Complete reconnaissance objectives and clear the area around your target before you commit."
+            },
+            {
+              "label": "4",
+              "detail": "Loot containers and downed enemies, then sort your inventory so high-value items make the trip home."
+            },
+            {
+              "label": "5",
+              "detail": "Fight or avoid hostile creatures and rival agents; gunfire draws far more attention than melee."
+            },
+            {
+              "label": "6",
+              "detail": "Reach an extraction point before the timer expires and bank your haul back at the Safe House."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/no-such-place-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "No Such Place Wiki Weapons & Gunsmith",
+          "description": "Cover the weapon system, Gunsmith customization, attachments, weapon statistics, ammunition, and practical loadout considerations for every expedition.",
+          "href": "/items/no-such-place-weapons",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Trench Break-Action and Arc Welder Lance — point-blank stagger and armor-piercing chain stun."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Reinforced Rebar Club and Calibrated Hunting Carbine — reliable knockdown and precision headshots."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Scrapshot Handgun and Hardened Pipe Wrench — cheap craftable ammo and fast recovery swings."
+            },
+            {
+              "label": "C",
+              "detail": "Rusted Utility Hatchet and Crude Flare Discharger — starter melee and scarce pyrotechnic fuel."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/no-such-place-tier-list",
-          "displayType": "tier-grid",
+          "name": "No Such Place Wiki Maps & Extraction",
+          "description": "Introduce the available regions, exploration areas, extraction points, important landmarks, and route-planning concepts that balance loot against a safe exit.",
+          "href": "/maps/no-such-place-map",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Caldera",
+              "detail": "Central Caldera is the primary crossroads, home to the survey tower and the Silent Monolith landmark."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Ridge",
+              "detail": "The Ashen Ridge is high-elevation crag country where fragile rope bridges and wind corridors punish greedy routes."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Hollows",
+              "detail": "Mistbound Hollows hides movement in fog and murky water, so audio beacons matter more than sight."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Basin",
+              "detail": "The Sunken Basin is a deep cavern maze of stalactites and luminescent flora with tight crawls."
+            },
+            {
+              "label": "Expanse",
+              "detail": "Shimmering Expanse is a reflective crystalline desert with heat mirages and very little shelter."
+            },
+            {
+              "label": "Outskirts",
+              "detail": "Forgotten Outskirts offers abandoned shelters and baseline salvage for early loadouts."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/no-such-place-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "No Such Place Wiki Loot & Resources",
+          "description": "Catalog useful loot categories, supplies, artifacts, biological samples, documents, ammunition, and medicine, and explain which resources feed survival, crafting, or Safe House development.",
+          "href": "/items/no-such-place-metal-component",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Metal Component",
+              "detail": "Core crafting material salvaged from machinery and spent in weapon and facility upgrades."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Gas Canister",
+              "detail": "Fuel and utility resource for generators, traps, and powered Safe House facilities."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Steel Rebar",
+              "detail": "Sturdy salvage used to craft improvised melee weapons and reinforce structures."
+            },
+            {
+              "label": "Syringe",
+              "detail": "Field medicine that restores vitals after a rough encounter or a bad zone."
+            },
+            {
+              "label": "Sleeping Bag",
+              "detail": "Portable rest item that supports stamina recovery on longer expeditions."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/no-such-place-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "No Such Place Wiki Safe House Guide",
+          "description": "Explain Safe House progression, facilities, storage, preparation, and how successful extraction drives long-term upgrades and resource-management decisions.",
+          "href": "/guide/no-such-place-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Storage",
+              "detail": "Bank extracted loot in Safe House storage so one failed run never wipes your whole stash."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Facilities",
+              "detail": "Power, workbench, and research facilities turn raw salvage into permanent progression."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Loadouts",
+              "detail": "Prepare loadouts between runs so you deploy with the ammo, medicine, and tools you need."
+            },
+            {
+              "label": "Upgrades",
+              "detail": "Spend resources on upgrades that raise output and unlock access to deeper zones."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/no-such-place-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "No Such Place Wiki Enemies Guide",
+          "description": "Provide an enemy reference covering hostile creatures, rival agents, mercenaries, and other threats, summarizing threat behavior, encounter conditions, and practical survival advice.",
+          "href": "/mechanics/no-such-place-fogman",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Fogman",
+              "detail": "The Fogman stalks low-visibility biomes and punishes players who sprint through fog without cover."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Drones",
+              "detail": "Worker drones swarm in numbers and carry resources, but clearing them drains stamina fast."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Warriors",
+              "detail": "Warrior castes hold the frontline with iron pipes and jagged bludgeons."
+            },
+            {
+              "label": "Prince",
+              "detail": "The Prince leads the hive and is a high-bounty target armed with ritual knives and stealth."
+            },
+            {
+              "label": "Agents",
+              "detail": "Rival agents and mercenaries contest the same loot you are trying to extract."
+            },
+            {
+              "label": "Scouts",
+              "detail": "Scout feeders spot patrols and raise the alarm, so silence them before they spread aggro."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "No Such Place Wiki Co-op Guide",
+          "description": "Explain online and LAN co-op, team roles, communication, reviving teammates, and how group play changes exploration and extraction decisions in Early Access.",
+          "href": "/mechanics/no-such-place-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Host a friends-only lobby and keep the party between two and four players for balanced difficulty."
+            },
+            {
+              "label": "2",
+              "detail": "Assign roles: a Pathfinder scouts ahead while a Quartermaster manages shared supplies."
+            },
+            {
+              "label": "3",
+              "detail": "Stay in visual or radio contact because spatial shifts can separate the squad without warning."
+            },
+            {
+              "label": "4",
+              "detail": "Share ammo, medicine, and batteries so nobody runs dry in the middle of a fight."
+            },
+            {
+              "label": "5",
+              "detail": "Revive downed teammates quickly; every lost member weakens your extraction defense."
+            },
+            {
+              "label": "6",
+              "detail": "Coordinate the extraction call so the whole team leaves together with the loot."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "No Such Place Wiki Updates & Patch Notes",
+          "description": "Track major Early Access announcements, balance changes, bug fixes, new maps, weapons, gear, and progression changes as the game evolves.",
+          "href": "/release/no-such-place-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "Early Access plans cover new zones, weapons, gear, and expanded main-story content."
+            },
+            {
+              "label": "Balance",
+              "detail": "Balance passes tune weapon damage, stamina drain, and enemy behavior after launch."
+            },
+            {
+              "label": "New Gear",
+              "detail": "Patches add weapons, attachments, and collectibles to the loot pool."
+            },
+            {
+              "label": "Bug Fixes",
+              "detail": "Stability patches address inventory desync, collision traps, and spatial-loop bugs."
+            },
+            {
+              "label": "Launch",
+              "detail": "No Such Place enters Steam Early Access on October 14, 2026 with three regions."
             }
           ]
         }
@@ -300,27 +410,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about No Such Place.",
+      "description": "Quick answers to the most common questions about No Such Place Wiki and its guides.",
       "items": [
         {
-          "question": "What is No Such Place?",
-          "answer": "No Such Place is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is No Such Place Wiki?",
+          "answer": "No Such Place Wiki is a fan-built guide hub for No Such Place, a top-down extraction shooter from ChillyRoom and CritTeam where you explore anomalous dimensions, fight monsters and rival agents, collect valuable loot, and extract to your Safe House."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How does extraction work in No Such Place?",
+          "answer": "Each run sends you into an anomalous zone to complete objectives and collect loot. When your bag is full or the timer is closing in, head to an extraction point and hold it until the countdown finishes to bank your haul. No Such Place Wiki maps every exit type."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does No Such Place Wiki cover co-op?",
+          "answer": "Yes. No Such Place supports solo play, online co-op, and LAN co-op, so the No Such Place Wiki co-op module covers team roles, communication, and reviving teammates."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "When does No Such Place launch?",
+          "answer": "No Such Place enters Steam Early Access on October 14, 2026 with three regions, new weapons and gear, and expanded main-story content. No Such Place Wiki tracks every major patch."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does No Such Place Wiki cover weapons and the Gunsmith?",
+          "answer": "Yes. The No Such Place Wiki weapons module breaks down scavenged ballistics, improvised melee, anomaly tech, attachments, and tier rankings so you can build a loadout that survives extraction."
         }
       ]
     },
