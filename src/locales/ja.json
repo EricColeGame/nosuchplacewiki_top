@@ -1,1 +1,520 @@
-{}
+{
+  "site": {
+    "name": "No Such Place Wiki",
+    "shortName": "No Such Place",
+    "tagline": "武器・マップ・戦利品・脱出ガイド",
+    "description": "No Such Place の完全ガイド：武器、マップ、戦利品、脱出のコツ、協力プレイ、ガンスミスビルド、セーフハウスの進行、アーリーアクセス情報まで。",
+    "legalNotice": "非公式ファンウィキ。プレイヤーがプレイヤーのために制作。ChillyRoom、CritTeam、LoongGate とは無関係です。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ",
+    "guide": "ガイド",
+    "mechanics": "メカニクス",
+    "items": "アイテム",
+    "maps": "マップ",
+    "release": "リリース",
+    "community": "コミュニティ",
+    "media": "メディア"
+  },
+  "guide": {
+    "overviewTitle": "No Such Place ガイド",
+    "overviewDescription": "No Such Place の初心者向けウォークスルー、脱出のコツ、売却戦略、ステップバイステップのチュートリアル。"
+  },
+  "mechanics": {
+    "overviewTitle": "No Such Place メカニクス",
+    "overviewDescription": "フェイズシフト、フォグマン、PvP、マルチプレイなど、No Such Place の毎回のランを形作るシステム。"
+  },
+  "items": {
+    "overviewTitle": "No Such Place アイテム＆武器",
+    "overviewDescription": "No Such Place で生き残るために必要な武器、ワークベンチ、注射器、戦利品。"
+  },
+  "maps": {
+    "overviewTitle": "No Such Place マップ",
+    "overviewDescription": "No Such Place で方向を見失わないためのマップ、キャビン、ガスシリンダー、ランドマークルート。"
+  },
+  "release": {
+    "overviewTitle": "No Such Place リリース＆アップデート",
+    "overviewDescription": "No Such Place のリリース日、アーリーアクセス、デモ、Steam、PS5、Xbox のニュース。"
+  },
+  "community": {
+    "overviewTitle": "No Such Place コミュニティ",
+    "overviewDescription": "No Such Place のプレイヤーが攻略情報やランを共有する Discord、Reddit などの場所。"
+  },
+  "media": {
+    "overviewTitle": "No Such Place メディア",
+    "overviewDescription": "No Such Place を扱ったトレーラー、ゲームプレイ、レビュー。"
+  },
+  "home": {
+    "meta": {
+      "title": "No Such Place Wiki - 武器、マップ＆脱出ガイド",
+      "description": "No Such Place の武器、マップ、戦利品、脱出のコツ、協力プレイ、セーフハウス進行、ガンスミスビルド、敵、アーリーアクセス情報を網羅したガイド。"
+    },
+    "hero": {
+      "eyebrow": "トップダウン脱出シューター",
+      "title": "No Such Place Wiki",
+      "description": "No Such Place はトップダウンの脱出シューターです。異常次元を探索し、モンスターやライバルエージェントと戦い、貴重な戦利品を集めて、セーフハウスに戻る前に脱出しましょう。",
+      "stats": [
+        "3つの地域が利用可能",
+        "5言語対応",
+        "3つのゲームモード",
+        "2026年10月14日 アーリーアクセス"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "武器＆戦利品ガイド",
+      "tertiaryCta": "アーリーアクセスガイド",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "ここから始める",
+      "title": "No Such Place Wiki の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "セーフハウスでの装備準備から、異常ゾーンへの出撃、目標の達成、戦利品の回収、脅威との戦闘や回避、タイマーが切れる前の脱出まで、基本的な脱出ループを学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "武器＆ガンスミス",
+          "description": "次の出撃の前に、武器クラス、ティアランキング、アタッチメント、ロードアウトを理解しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "戦利品＆資源",
+          "description": "セーフハウスの進行に持ち帰る価値のある補給品、アーティファクト、サンプル、弾薬、医薬品を見極めましょう。"
+        },
+        {
+          "number": "4",
+          "title": "敵＆戦闘",
+          "description": "敵対的なクリーチャー、ライバルエージェント、傭兵を見分け、戦い方ややり過ごし方を学びましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "今話題の記事",
+      "quickLinks": [
+        "初心者ガイド",
+        "武器＆ガンスミス",
+        "マップ＆脱出",
+        "協力プレイガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "セーフハウスから出口まで、最初の脱出に必要なすべて。",
+          "href": "/guide/no-such-place-beginner-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "脱出方法",
+          "description": "脱出ポイント、タイマー、戦利品を安全に持ち帰る戦術。",
+          "href": "/guide/no-such-place-how-to-extract"
+        },
+        {
+          "badge": "装備",
+          "title": "武器＆ガンスミス",
+          "description": "武器ティア、アタッチメント、弾薬、実践的なロードアウト構成。",
+          "href": "/items/no-such-place-weapons"
+        },
+        {
+          "badge": "マップ",
+          "title": "マップ＆脱出",
+          "description": "安全な探索ランのための地域、ランドマーク、ルート計画。",
+          "href": "/maps/no-such-place-map"
+        },
+        {
+          "badge": "協力",
+          "title": "マルチプレイガイド",
+          "description": "チームの役割、コミュニケーション、蘇生、グループプレイがランをどう変えるか。",
+          "href": "/mechanics/no-such-place-multiplayer"
+        },
+        {
+          "badge": "敵",
+          "title": "敵リファレンス",
+          "description": "敵対クリーチャー、ライバルエージェント、傭兵と生存のアドバイス。",
+          "href": "/mechanics/no-such-place-fogman"
+        },
+        {
+          "badge": "戦利品",
+          "title": "戦利品＆資源",
+          "description": "持ち帰る価値のある補給品とクラフト素材。",
+          "href": "/items/no-such-place-metal-component"
+        },
+        {
+          "badge": "ガイド",
+          "title": "アイテムの売り方",
+          "description": "余剰の戦利品をセーフハウス強化に必要な資源に変えましょう。",
+          "href": "/guide/no-such-place-how-to-sell-items"
+        },
+        {
+          "badge": "リリース",
+          "title": "アーリーアクセスガイド",
+          "description": "ローンチビルド、ロードマップ、今後のパッチで何が期待できるか。",
+          "href": "/release/no-such-place-early-access"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "No Such Place とは？",
+      "paragraphs": [
+        "No Such Place は ChillyRoom と CritTeam によるトップダウンの脱出シューターです。異常次元に出撃し、モンスターやライバルエージェントと戦い、貴重な戦利品を集め、ゾーンが閉じる前に脱出ポイントへ急ぎましょう。成功したランはすべてセーフハウスと次の作戦に持ち込む装備を強化します。",
+        "戦闘は慎重かつ資源を消費します。回収した実弾兵器は強力ですが音を立て、即席の近接武器は静かで、アノマリーテックは安定性と引き換えに元素の力を得ます。ランとランの合間には戦利品を整理し、施設をアップグレードし、ロードアウトを準備します。No Such Place は 2026年10月14日に Steam アーリーアクセスで3つの地域と、ソロ・オンライン協力・LAN協力対応でローンチします。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "ChillyRoom"
+        },
+        {
+          "label": "パブリッシャー",
+          "value": "LoongGate"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "PC / Steam"
+        },
+        {
+          "label": "ジャンル",
+          "value": "脱出シューター"
+        },
+        {
+          "label": "地域",
+          "value": "3"
+        },
+        {
+          "label": "ゲームモード",
+          "value": "3"
+        },
+        {
+          "label": "アーリーアクセス",
+          "value": "2026年10月14日"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "No Such Place Wiki を探索",
+      "description": "最初の脱出から終盤のセーフハウス強化まで、これら8つのモジュールが No Such Place で重要な武器、マップ、戦利品、敵、協力戦術、パッチノートを網羅します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "No Such Place Wiki 初心者ガイド",
+          "description": "ゲームを始めるプレイヤーやアーリーアクセス参入者に向けて、基本的な脱出ループ、偵察目標、戦利品回収、戦闘、脱出のタイミング、セーフハウスへの帰還手順を解説します。",
+          "href": "/guide/no-such-place-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "セーフハウスで装備を整え、出撃前に目標に合ったロードアウトを選びましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "異常ゾーンに出撃し、ランドマーク、戦利品の密集地、脱出ポイントをマップで確認しましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "偵察目標を達成し、踏み込む前にターゲット周辺の敵を排除しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "コンテナや倒した敵から戦利品を回収し、価値の高いアイテムを優先してインベントリを整理しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "敵対クリーチャーやライバルエージェントと戦うか避けるか選びましょう。銃声は近接攻撃よりはるかに注意を引きます。"
+            },
+            {
+              "label": "6",
+              "detail": "タイマーが切れる前に脱出ポイントへ到達し、セーフハウスで戦利品を保管しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "No Such Place Wiki 武器＆ガンスミス",
+          "description": "武器システム、ガンスミスのカスタマイズ、アタッチメント、武器ステータス、弾薬、そして遠征ごとの実践的なロードアウトの考え方を解説します。",
+          "href": "/items/no-such-place-weapons",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "トレンチ・ブレイクアクションとアークウェルダーランス — 至近距離でのよろめきと装甲貫通の連鎖スタン。"
+            },
+            {
+              "label": "A",
+              "detail": "強化鉄筋クラブと調整済みハンティングカービン — 信頼できる転倒と精密なヘッドショット。"
+            },
+            {
+              "label": "B",
+              "detail": "スクラップショットハンドガンと硬化パイプレンチ — 安価に作れる弾薬と素早い振り戻し。"
+            },
+            {
+              "label": "C",
+              "detail": "錆びたユーティリティハチェットと粗末なフレアディスチャージャー — 初心者用近接武器と乏しい火工燃料。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "No Such Place Wiki マップ＆脱出",
+          "description": "利用可能な地域、探索エリア、脱出ポイント、重要なランドマーク、戦利品と安全な脱出のバランスを取るルート計画の考え方を紹介します。",
+          "href": "/maps/no-such-place-map",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Caldera",
+              "detail": "セントラル・カルデラは主要な交差点で、測量塔とサイレント・モノリスのランドマークがあります。"
+            },
+            {
+              "label": "Ridge",
+              "detail": "アッシェン・リッジは高所の岩場で、脆いロープ橋と風の回廊が欲張ったルートを罰します。"
+            },
+            {
+              "label": "Hollows",
+              "detail": "ミストバウンド・ホロウズは霧と濁った水で動きを隠すため、視界より音響ビーコンが重要です。"
+            },
+            {
+              "label": "Basin",
+              "detail": "サンケン・ベイスンは鍾乳石と発光植物の深い洞窟迷路で、狭い這い進みがあります。"
+            },
+            {
+              "label": "Expanse",
+              "detail": "シマリング・エクスパンスは反射する結晶の砂漠で、熱による陽炎とほとんど遮蔽物がありません。"
+            },
+            {
+              "label": "Outskirts",
+              "detail": "フォーゴトン・アウトスカーツは放棄された避難所と初期ロードアウト向けの基本回収品があります。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "No Such Place Wiki 戦利品＆資源",
+          "description": "有用な戦利品カテゴリ、補給品、アーティファクト、生体サンプル、文書、弾薬、医薬品を一覧化し、生存・クラフト・セーフハウス発展に役立つ資源を解説します。",
+          "href": "/items/no-such-place-metal-component",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Metal Component",
+              "detail": "機械から回収される主要クラフト素材で、武器や施設のアップグレードに使われます。"
+            },
+            {
+              "label": "Gas Canister",
+              "detail": "発電機、トラップ、動力付きセーフハウス施設のための燃料・ユーティリティ資源。"
+            },
+            {
+              "label": "Steel Rebar",
+              "detail": "即席の近接武器のクラフトや構造物の補強に使われる頑丈な回収品。"
+            },
+            {
+              "label": "Syringe",
+              "detail": "厳しい遭遇や悪いゾーンの後に体力を回復するフィールド医薬品。"
+            },
+            {
+              "label": "Sleeping Bag",
+              "detail": "長い遠征でのスタミナ回復を支える携帯用の休息アイテム。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "No Such Place Wiki セーフハウスガイド",
+          "description": "セーフハウスの進行、施設、保管、準備、そして脱出の成功が長期的なアップグレードと資源管理の判断をどう左右するかを解説します。",
+          "href": "/guide/no-such-place-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Storage",
+              "detail": "回収した戦利品をセーフハウスの保管庫に預け、1回の失敗で全財産を失わないようにしましょう。"
+            },
+            {
+              "label": "Facilities",
+              "detail": "電力、ワークベンチ、研究施設が生の回収品を恒久的な進行に変えます。"
+            },
+            {
+              "label": "Loadouts",
+              "detail": "ランとランの間にロードアウトを準備し、必要な弾薬、医薬品、道具を持って出撃しましょう。"
+            },
+            {
+              "label": "Upgrades",
+              "detail": "生産量を高め、より深いゾーンへのアクセスを解放するアップグレードに資源を使いましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "No Such Place Wiki 敵ガイド",
+          "description": "敵対クリーチャー、ライバルエージェント、傭兵などの脅威をまとめた敵リファレンスで、脅威の行動、遭遇条件、実践的な生存アドバイスを要約します。",
+          "href": "/mechanics/no-such-place-fogman",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Fogman",
+              "detail": "フォグマンは視界の悪いバイオームに潜み、遮蔽物なしで霧を走り抜けるプレイヤーを罰します。"
+            },
+            {
+              "label": "Drones",
+              "detail": "ワーカードローンは群れで襲来し資源を運びますが、排除にはスタミナを大きく消費します。"
+            },
+            {
+              "label": "Warriors",
+              "detail": "ウォリアーカーストは鉄パイプとギザギザの棍棒で前線を守ります。"
+            },
+            {
+              "label": "Prince",
+              "detail": "プリンスはハイブを率いる高額賞金の標的で、儀式用ナイフとステルスを武器にします。"
+            },
+            {
+              "label": "Agents",
+              "detail": "ライバルエージェントや傭兵は、あなたが持ち帰ろうとする同じ戦利品を奪い合います。"
+            },
+            {
+              "label": "Scouts",
+              "detail": "スカウトフィーダーはパトロールを見つけて警報を鳴らすので、ヘイトが広がる前に黙らせましょう。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "No Such Place Wiki 協力プレイガイド",
+          "description": "オンラインおよびLAN協力プレイ、チームの役割、コミュニケーション、仲間の蘇生、そしてアーリーアクセスでグループプレイが探索と脱出の判断をどう変えるかを解説します。",
+          "href": "/mechanics/no-such-place-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "フレンド限定ロビーをホストし、バランスの取れた難易度のために2〜4人でプレイしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "役割を分担しましょう。パスファインダーが先行偵察し、クォーターマスターが共有物資を管理します。"
+            },
+            {
+              "label": "3",
+              "detail": "空間のずれが予告なく分隊を分断することがあるため、視界か無線で連絡を取り合いましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "弾薬、医薬品、バッテリーを共有し、戦闘中に誰も尽きることがないようにしましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "倒れた仲間を素早く蘇生しましょう。失うメンバーが多いほど脱出防御が弱まります。"
+            },
+            {
+              "label": "6",
+              "detail": "脱出のタイミングを調整し、チーム全員が戦利品とともに一緒に離脱しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "No Such Place Wiki アップデート＆パッチノート",
+          "description": "アーリーアクセスの主要発表、バランス調整、バグ修正、新しいマップ、武器、装備、進行の変更をゲームの進化に合わせて追跡します。",
+          "href": "/release/no-such-place-early-access",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Roadmap",
+              "detail": "アーリーアクセスの計画には新しいゾーン、武器、装備、メインストーリーの拡充が含まれます。"
+            },
+            {
+              "label": "Balance",
+              "detail": "バランス調整はローンチ後の武器ダメージ、スタミナ消費、敵の行動を調整します。"
+            },
+            {
+              "label": "New Gear",
+              "detail": "パッチは武器、アタッチメント、コレクティブルを戦利品プールに追加します。"
+            },
+            {
+              "label": "Bug Fixes",
+              "detail": "安定性パッチはインベントリの同期ずれ、衝突トラップ、空間ループのバグに対処します。"
+            },
+            {
+              "label": "Launch",
+              "detail": "No Such Place は2026年10月14日、3つの地域とともに Steam アーリーアクセスを開始します。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "No Such Place Wiki とそのガイドに関する最も一般的な質問への簡単な回答。",
+      "items": [
+        {
+          "question": "No Such Place Wiki とは何ですか？",
+          "answer": "No Such Place Wiki は、ChillyRoom と CritTeam によるトップダウン脱出シューター『No Such Place』のファン制作ガイドハブです。異常次元を探索し、モンスターやライバルエージェントと戦い、貴重な戦利品を集めてセーフハウスへ脱出します。"
+        },
+        {
+          "question": "No Such Place の脱出はどう機能しますか？",
+          "answer": "各ランでは異常ゾーンに入り、目標を達成して戦利品を集めます。バッグがいっぱいになるかタイマーが迫ったら、脱出ポイントへ向かいカウントダウンが終わるまで保持して戦利品を確保しましょう。No Such Place Wiki はすべての脱出タイプをマップ化しています。"
+        },
+        {
+          "question": "No Such Place Wiki は協力プレイを扱っていますか？",
+          "answer": "はい。No Such Place はソロ、オンライン協力、LAN協力をサポートしており、No Such Place Wiki の協力モジュールではチームの役割、コミュニケーション、仲間の蘇生を扱っています。"
+        },
+        {
+          "question": "No Such Place はいつローンチしますか？",
+          "answer": "No Such Place は2026年10月14日、3つの地域、新しい武器と装備、拡充されたメインストーリーとともに Steam アーリーアクセスを開始します。No Such Place Wiki は主要なパッチをすべて追跡します。"
+        },
+        {
+          "question": "No Such Place Wiki は武器とガンスミスを扱っていますか？",
+          "answer": "はい。No Such Place Wiki の武器モジュールでは、回収した実弾兵器、即席の近接武器、アノマリーテック、アタッチメント、ティアランキングを分解し、脱出を生き延びるロードアウトを組めるようにします。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "No Such Place を生き延びる準備はできましたか？",
+      "description": "異常ゾーンへの最初の脱出から、ガンスミスとセーフハウスの習得まで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "updated": "更新日",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション内",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "ヘルプが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開をお待ちください！",
+    "startHere": "ここから始める",
+    "beginnerGuide": "初心者ガイド",
+    "beginnerGuideTip": "基本的なループ、操作方法、脱出の基本を学びましょう。",
+    "viewAllGuides": "すべてのガイドを見る"
+  },
+  "footer": {
+    "aboutTitle": "No Such Place Wiki",
+    "about": "No Such Place Wiki は、武器、マップ、戦利品、脱出ルート、協力戦術、ガンスミスビルド、セーフハウス進行を扱う独立したファン制作ガイドハブで、新人からベテランのプレイヤーまで役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 No Such Place Wiki. ChillyRoom、CritTeam、LoongGate とは無関係です。",
+    "description": "PC・Steam のトップダウン脱出シューター。異常次元を探索し、モンスターやライバルエージェントと戦い、戦利品を集めてセーフハウスへ脱出しましょう。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "beginnerGuide": "初心者ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約",
+    "itemGuides": "武器＆アイテム",
+    "mapGuides": "マップ＆エリア",
+    "mechanicsGuides": "メカニクス"
+  }
+}
